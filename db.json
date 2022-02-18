@@ -1,55 +1,5 @@
-[
-  {
-    "perfil": {
-      "id": 29121,
-      "name": "Eduardo Zamora Valle",
-      "avatar": "https://www.gravatar.com/avatar/12?d=retro&f=y",
-      "range" : "Pro skater"
-    },
-    "video": {
-      "url": "",
-      "title": "Big Ollie in the Office, Leon Mexico",
-      "keywords" : [
-        "Big Ollie",
-        "Leon, GTO MX"
-      ],
-      "likes" : 1231,
-      "show": 4321
-    },
-    "map" : {
-      "long" : 29192,
-      "lag" : 322323,
-      "pais" : "Mexico",
-      "estado": "Guanajuato",
-      "ciudad": "Leon"
-    }
-  },
-  {
-    "perfil": {
-      "id": 29121,
-      "name": "Eduardo Zamora Valle",
-      "avatar": "https://www.gravatar.com/avatar/12?d=retro&f=y",
-      "range" : "Pro skater"
-    },
-    "video": {
-      "url": "",
-      "title": "Big Ollie in the Office, Leon Mexico",
-      "keywords" : [
-        "Big Ollie",
-        "Leon, GTO MX"
-      ],
-      "likes" : 1231,
-      "show": 4321
-    },
-    "map" : {
-      "long" : 29192,
-      "lag" : 322323,
-      "pais" : "Mexico",
-      "estado": "Guanajuato",
-      "ciudad": "Leon"
-    }
-  },
-  {
+
+   {
     "perfil": {
       "id": 29121,
       "name": "Eduardo Zamora Valle",
@@ -74,4 +24,4 @@
       "ciudad": "Leon"
     }
   }
-]
+  
